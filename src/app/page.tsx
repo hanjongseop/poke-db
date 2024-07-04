@@ -1,5 +1,3 @@
-// src/app/page.tsx
-
 "use client";
 
 import PokemonList from "./_components/PokemonList";

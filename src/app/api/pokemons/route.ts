@@ -1,4 +1,3 @@
-// src/app/pokemons/route.ts
 import { NextResponse } from "next/server";
 import axios from "axios";
 
